@@ -1,0 +1,15 @@
+---
+layout: post
+title:      "Catching The Wind"
+date:       2019-12-23 02:28:49 +0000
+permalink:  catching_the_wind
+---
+
+
+We are living in a global digital age except some small parts of the world. I used to be in that small part of the world. I was born in Thailand in the 90s. I had no idea about computers until my parents brought one home. They took a short class to use AutoCAD on it, they were interior designers with their own company and furniture workshop. I didn't even know or have any interest in it until I was about 8 years old when one of my mom's employees showed me Sims. I was really only ever interested in building houses and decorating them in it, but there was a problem. If you played Sims before, you know it costs money to build a house, money which your initial character does not have. The employee was nice enough to show me how to do the money cheat and that's why it piqued my interest. How did that work? Of course, no one there knows about it then. It's been on the back of my mind until I moved to the United States.
+
+I didn't work with a computer from then until about 8th grade when we bought a computer here. I still remember I was learning to mod Skyrim in high school, which ultimately made me enroll myself in a programming class along with some of the engineering introduction classes in high school. In my senior year in high school, I researched and put together my first computer. It was a laptop of about a thousand dollars which I used throughout college. It was truly money well invested. At least I think so using this logic: "if I'll use it every day, I might as well get the best I can from my budget". I played around with it while I was in the Introduction to C++ course. I had initially applied for engineering, but I found it to be a little too much for me so I went into meteorology. As I dived into one of the most interesting majors I found, which was not offered at many places else. I found that what I have now is really lacking, that I’m falling behind in this digital era. The most important reason is that my friend who graduated with a computer science degree got a job at google and he gets close to $8,000 a month from them. I’m sure that’s mainly from his achievement of winning a big tournament in Asia as team leader of the college team. I was quite jealous of him when I heard about it.
+
+I figured it’s not too late for me catch up, so I can be once more, relevant to what the world is moving towards. I have a dream of going into data visualization and modeling right after I graduated because I had an amazing experience at the “Cube” at Virginia Tech. This is my driving factor right now, it’s a goal right now. I wish to be included in this amazing project that they are developing. There are many more projects that I want to go into as well but right now I want to focus on this. I just hope it’s not too late for me to catch up to at least the tail of the ever-progressing wind.
+Here’s a link to the “Cube”: [https://icat.vt.edu/projects/2014-2015/major/3d-meteorological-immersion-experience--tornado-in-the-cube.html](http://)
+
