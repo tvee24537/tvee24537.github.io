@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Weather Checker"
-date:       2020-02-17 02:34:25 +0000
+date:       2020-02-16 21:34:25 -0500
 permalink:  the_weather_checker
 ---
 
