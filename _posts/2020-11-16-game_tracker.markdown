@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Game Tracker"
-date:       2020-11-17 00:46:54 +0000
+date:       2020-11-16 19:46:55 -0500
 permalink:  game_tracker
 ---
 
@@ -18,7 +18,7 @@ What this app will do in summary:
 While the model relationships got easier, it also got more complex, like having a has_many :reviewed_games, through: :reviews, source: :game. Making the skeleton app itself also got way easier and faster with rails generators, but there are some downsides to the generators as well, like how rails new “project” command added some gems that I did not need into the gemfile. The gem ‘webpacker’ had me losing a few hairs, because I could not figure out why the rails server was not working until my cohort lead had me comment out that gem since it’s not needed for this project.
 While working on it, I got my server stuck in an infinite loop:
 
-![https://imgur.com/a/NzpG4J8](http://)
+![](https://imgur.com/a/NzpG4J8)
  
 This is what I was seeing on my webpage:
 
